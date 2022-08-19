@@ -1,0 +1,21 @@
+{
+  "name": "nyfifth/mtcore",
+  "description": "MT核心类库",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "jwboys",
+      "email": "15967010662@163.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "mtcore\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
